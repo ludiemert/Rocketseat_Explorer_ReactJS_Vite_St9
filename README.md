@@ -9,7 +9,7 @@
 
 # Introduction: Learning:
 
-💻 ReactJS => Is an open-source JavaScript front-end library focused on creating user interfaces in web pages.? </br>
+💻 ReactJS => Is an open-source JavaScript front-end library focused on creating user interfaces in web pages. </br>
 💻 Vite = Vite is a tool with the goal of creating a simple and super fast development environment. </br>
 
 💻 Structure of folders and files </br>
